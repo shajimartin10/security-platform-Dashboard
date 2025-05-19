@@ -20,4 +20,4 @@ README.md              # Project overview and setup instructions
 
 Figma Design Access:
 
-https://www.figma.com/design/gNmCOfbIydx06vpsvNIbWY/Dashboard-For-Security-Platform?node-id=0-1&t=EZKTBFFpVKjcmciX-1
+https://www.figma.com/design/DA2kSx9UzPgEUwGvlhljws/Dashboard-For-Security-Platform?node-id=0-1&t=DC6dGYVukoUJmL3M-1
